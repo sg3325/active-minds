@@ -457,7 +457,7 @@ text-align: center;
  padding-top: 130px;
 }
 
-.branding{ background:url("images/active-minds-logo.png")no-repeat;
+.branding{ 
   width: 170px;
   height: 80px;
   float: left;
